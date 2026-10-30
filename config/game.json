@@ -1,0 +1,15 @@
+{
+  "project": "shibito-decomp",
+  "game_id": "SCUS-97355",
+  "region": "NTSC-U",
+  "platform": "PlayStation 2 (EE, MIPS R5900)",
+  "elf_name": "SCUS_973.55",
+  "sha256": "90071e644587c30c9719fca887031715dbeb63fdd6b8ccced2afb401466eb9e4",
+  "banned_rot13": [
+    "fvera",
+    "sbeovqqra",
+    "fbal",
+    "fprn",
+    "wncna fghqvb"
+  ]
+}
