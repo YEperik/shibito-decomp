@@ -1,0 +1,27 @@
+{
+  "game_id": "SCUS-97355",
+  "region": "NTSC-U",
+  "sha256": "90071e644587c30c9719fca887031715dbeb63fdd6b8ccced2afb401466eb9e4",
+  "size": 1773616,
+  "entry": "0x00100008",
+  "machine": "MIPS (R5900 / EE)",
+  "abi_flags": "0x20924000",
+  "code_load": "0x00100000",
+  "code_size": "0x1B0E00",
+  "mem_end": "0x01F1D380",
+  "bss_size": "0x1C6C580",
+  "compiler": [
+    "MW MIPS C Compiler (2.4.1.01)",
+    "PlayStation2"
+  ],
+  "stripped": true,
+  "sdk_libs": {
+    "libgraph": 13,
+    "libmpeg": 3,
+    "libsd": 1,
+    "libcdvd": 7,
+    "libsif": 1,
+    "libpad": 4,
+    "libmc": 1
+  }
+}
